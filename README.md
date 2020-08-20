@@ -1,2 +1,3 @@
 # codecademy-Projects
-JavaScript projects 
+#### All JavaScript projects during codecademey tutorials
+
